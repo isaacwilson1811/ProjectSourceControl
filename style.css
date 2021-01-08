@@ -4,10 +4,11 @@
 	font-family: inherit;
 }
 h1{
-	color:black;
-	background-color:white;
+	color:white;
+	background-color:black;
 	border:1px solid green;
+	width:50%;
 }
 p{
-	color:blue;
+	color:green;
 }
